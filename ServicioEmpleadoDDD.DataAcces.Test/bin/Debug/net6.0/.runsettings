@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<RunConfiguration>
+		<EnvironmentVariables>
+			<SqlConnectionString>Server=DESKTOP-SCJG7VI\SQLEXPRESS;Database=JobTestDB;User ID=userdb;Password=a609d0bd-9385-41ed-953b-e57ba8549039;Encrypt=false;TrustServerCertificate=False;Connection Timeout=30;</SqlConnectionString>
+		</EnvironmentVariables>
+	</RunConfiguration>
+</RunSettings>
