@@ -9,7 +9,7 @@ namespace ServicioEmpleadoDDD.DataAcces.Test
         [Fact]
         public async Task GetEmpleados()
         {
-            //Arange
+            //Arrange
             List<Empleado> empleados = new List<Empleado>();
             IEmpleadoRepository empleadoRepository = new EmpleadoRepository();
 
